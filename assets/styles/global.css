@@ -1,0 +1,37 @@
+:root {
+    --vermelho: #e50914;
+    --preta: #141414;
+    --branca: rgb(241 241 241);
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #141414;
+}
+
+@media screen and (max-width:700px) {
+    .builds-recentes {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+}
+
+@media screen and (min-width:1000px) {
+    .builds-recentes {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+    }
+
+
+    }
