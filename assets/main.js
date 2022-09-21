@@ -1,8 +1,8 @@
 
 
-//const element = document.getElementById("notYet")
-//element.addEventListener("click", linkarBotao);
+const element = document.getElementById("btnDuvidas")
+element.addEventListener("click", trocarMensagem);
 
-//function linkarBotao() {
-  //document.getElementById("notYet").innerHTML = "vlw";
-//}
+function trocarMensagem() {
+  document.getElementById("btnDuvidas").innerHTML = "Eu também tenho!";
+}
