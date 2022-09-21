@@ -1,4 +1,4 @@
-.about {
+.tittle {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -11,7 +11,7 @@
 
 }
 
-.about h1 {
+.tittle h1 {
     text-align: center;
     justify-content: center;
     font-size: 65px;
@@ -21,7 +21,7 @@
     text-align: center;
 }
 
-.about p {
+.tittle p {
     text-align: center;
     justify-content: center;
     font-size: 30px;
