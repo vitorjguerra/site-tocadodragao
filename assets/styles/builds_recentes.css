@@ -23,7 +23,7 @@
 
 }
 
-.builds-recentes ul li{
+.builds-recentes ul li {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -31,14 +31,14 @@
     margin: 1rem;
 }
 
-.builds-recentes ul li img{
- width: 400px;
+.builds-recentes ul li img {
+    width: 400px;
 
 }
 
-.builds-recentes ul li a, .builds-recentes ul li p{
+.builds-recentes ul li a, .builds-recentes ul li p {
     text-decoration: none;
     color: var(--branca);
     margin: 0.5rem;
-    
+
 }

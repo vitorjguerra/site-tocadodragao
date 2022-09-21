@@ -10,7 +10,7 @@
     height: 100%;
     margin-top: 5px;
     color: rgb(252, 243, 243);
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)100%), url(/assets/img_background/builds-tittle.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)100%), url(../img_background/builds-tittle.jpg);
 }
 
 .watch h1 {
@@ -20,7 +20,8 @@
 .watch p {
     text-align: center;
 }
-.watch-img{
+
+.watch-img {
     text-align: center;
 
 }
