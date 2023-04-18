@@ -17,6 +17,10 @@ body {
     background-color: #141414;
 }
 
+.minha-lista {
+    display: none;
+}
+
 @media screen and (max-width:700px) {
     .builds-recentes {
         display: flex;
@@ -34,4 +38,4 @@ body {
     }
 
 
-    }
+}
